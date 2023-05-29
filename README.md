@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+A new Flutter project where we are to app the question set in the code and do the quiz. To use the same project as you own please edit the file inside lib/data/question as you need with n-number of option. Please do inform me if you find any errors.
 
 ## Getting Started
 
